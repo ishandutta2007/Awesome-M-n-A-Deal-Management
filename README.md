@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-M-n-A-Deal-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-M-n-A-Deal-Management?style=flat-square" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-M-n-A-Deal-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-M-n-A-Deal-Management?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-M-n-A-Deal-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-M-n-A-Deal-Management?style=flat-square" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-M-n-A-Deal-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-M-n-A-Deal-Management?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ Below is a comparison of top commercial M&A deal platforms, ordered by estimated
 ## 💻 Open-Source GitHub Repositories 🔓
 
 > **Open-Source Ecosystem Overview** 🛠️  
-> While enterprise high-stakes transaction rooms often utilize commercial SaaS for legal defensibility and SOC 2 Type II compliance, open-source technology is rapidly transforming document security, self-hosted data rooms, and AI forensic due diligence. Below is a curated list of top open-source projects ranked by GitHub Star count:
+> While enterprise high-stakes transaction rooms often utilize commercial SaaS for legal defensibility and SOC 2 Type II compliance, open-source technology is rapidly transforming document security, self-hosted data rooms, and AI forensic due diligence. Below is a curated list of top open-source projects ranked by GitHub Stars_Count:
 
-| Repository 📦 | GitHub Stars ⭐ | Description 📝 | Primary Use Case 🛠️ |
+| Repository 📦 | GitHub_Stars ⭐ | Description 📝 | Primary Use Case 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[Nextcloud Server](https://github.com/nextcloud/server)** ☁️ | [<img src="https://img.shields.io/github/stars/nextcloud/server?style=social&color=white" alt="Nextcloud Stars"/>](https://github.com/nextcloud/server/stargazers) | Self-hosted enterprise content platform with granular access controls, encryption, and audit logs configurable as a secure VDR. | Self-Hosted File Storage & VDR |
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** 🚀 | [<img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white" alt="Hoppscotch Stars"/>](https://github.com/hoppscotch/hoppscotch/stargazers) | Open-source API development suite used for building custom M&A workflow integrations and deal pipeline APIs. | Custom M&A API Integration |
@@ -101,7 +101,7 @@ We welcome contributions from corporate development professionals, M&A advisors,
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Update entries** in `README.md` following the tabular layout.
-3. 🔍 Ensure accurate pricing, company metrics, repository star badges, and links.
+3. 🔍 Ensure accurate pricing, company metrics, repository Stars_Badges, and links.
 4. 🚀 **Submit a Pull Request** with a brief summary of additions.
 
 ---
